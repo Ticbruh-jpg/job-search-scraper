@@ -9,7 +9,7 @@ import time
 import json
 from datetime import datetime
 
-OUTPUT_FILE = "/home/ubuntu/.openclaw/workspace/jobs_today.txt"
+OUTPUT_FILE = "/home/Documents/jobs_today.txt"
 
 KEYWORDS = [
     'računovod', 'knjigovod', 'računovođ', 'porezn', 'financij',
