@@ -474,8 +474,8 @@ def main():
 
     # Sheets deduplication
     MATON_KEY = os.environ.get("MATON_API_KEY", "")
-    CONN_ID = "e8440a78-a4a6-4101-be27-9cd3c2a8d43d"
-    SHEET_ID = "1qgLFmMCFd86PyEw07ZfcgPNTJdG0xn7xF98Jsw2qzAM"
+    CONN_ID = ""
+    SHEET_ID = ""
 
     seen = set()
     if MATON_KEY:
